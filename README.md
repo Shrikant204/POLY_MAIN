@@ -94,7 +94,7 @@ With two commands you can compile a ZKP, generate a proof, deploy a verifier, an
 
 ## Authors
 
-Shaan Manchanda
+Shrikant204
 
 ## License
 
